@@ -1,11 +1,10 @@
 {
+  "name": "irctc-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {},
   "dependencies": {
-<<<<<<< HEAD
-    "@tailwindcss/cli": "^4.1.10",
+    "@tailwindcss/cli": "^0.1.2",
     "tailwindcss": "^4.1.10"
-=======
-    "@tailwindcss/cli": "^4.0.14",
-    "tailwindcss": "^4.0.14"
->>>>>>> 426d954c49f3bf57b64d9030557b3c2651977223
   }
 }
